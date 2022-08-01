@@ -1,0 +1,2 @@
+- Reference
+  - [Pythonで動画から毎秒のフレームを抽出する](https://gri.jp/media/entry/4571)
